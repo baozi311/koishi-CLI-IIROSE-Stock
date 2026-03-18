@@ -1,0 +1,88 @@
+plugins:
+  group:server:
+    $collapsed: true
+    server:qwahpd:
+      port: 5140
+      maxPort: 5149
+    ~server-satori:tkvrrd: {}
+    ~server-temp:jiw57w: {}
+  group:basic:
+    $collapsed: true
+    ~admin:0sg3gd: {}
+    ~bind:bvfr62: {}
+    commands:q4pd8h: {}
+    help:ncm4eq: {}
+    http:jtb3z8: {}
+    ~inspect:7ivgkg: {}
+    locales:hdsaoj: {}
+    proxy-agent:yp8plh: {}
+    rate-limit:8jburr: {}
+    telemetry:3kqtr7: {}
+  group:console:
+    $collapsed: true
+    actions:u6i962: {}
+    analytics:2zoul1: {}
+    android:710gfa:
+      $if: env.KOISHI_AGENT?.includes('Android')
+    ~auth:cz4f3n: {}
+    config:v8j4hz: {}
+    console:fyi3k1:
+      open: true
+    dataview:ip5q7k: {}
+    desktop:jn3ow2:
+      $if: env.KOISHI_AGENT?.includes('Desktop')
+    explorer:id9max: {}
+    logger:ykrpwv: {}
+    insight:w9xabz: {}
+    market:jamra7:
+      search:
+        endpoint: https://registry.koishi.chat/index.json
+    notifier:h2b0ys: {}
+    oobe:ctdb4p: {}
+    sandbox:7xwb4h: {}
+    status:waqviw: {}
+    theme-vanilla:t9fcu1: {}
+  group:storage:
+    $collapsed: true
+    ~database-mongo:87chbu:
+      database: koishi
+    ~database-mysql:01qbb9:
+      database: koishi
+    ~database-postgres:uiuleb:
+      database: koishi
+    database-sqlite:00uj7j:
+      path: data/koishi.db
+    assets-local:bteaiw: {}
+  group:adapter:
+    $collapsed: true
+    ~adapter-dingtalk:zl4nzu: {}
+    ~adapter-discord:v0ao7p: {}
+    ~adapter-kook:yvo37t: {}
+    ~adapter-lark:cmn098: {}
+    ~adapter-line:6u4h2w: {}
+    ~adapter-mail:3wbczq: {}
+    ~adapter-matrix:gtyt8c: {}
+    ~adapter-qq:6exg7g: {}
+    ~adapter-satori:nlqwwc: {}
+    ~adapter-slack:w7zbnx: {}
+    ~adapter-telegram:ai85vd: {}
+    ~adapter-wechat-official:k21119: {}
+    ~adapter-wecom:c87ckn: {}
+    ~adapter-whatsapp:pa5rw3: {}
+    ~adapter-zulip:am7yu9: {}
+  group:develop:
+    $collapsed: true
+    $if: env.NODE_ENV === 'development'
+    hmr:e8pbr7:
+      root: .
+  adapter-iirose:m2atf0:
+    usename: 小冰股票
+    uid: 69b3b31f61f35
+    password: '2250254312'
+    roomId: 5ce6a4b520a90
+  stock-monitor:05tvar:
+    apiUrl: http://felinus.gnway.cc:8000/stock
+    method: POST
+    retry: 0
+    retryDelay: 1000
+    enableLog: true
