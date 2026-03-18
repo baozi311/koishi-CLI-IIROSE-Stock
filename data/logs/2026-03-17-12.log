@@ -1,0 +1,45 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.11\u001b[0m","timestamp":1773736343290}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1773736343318}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1773736343319}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:qwahpd\u001b[0m","timestamp":1773736343319}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1773736343839}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:q4pd8h\u001b[0m","timestamp":1773736343840}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:ncm4eq\u001b[0m","timestamp":1773736343855}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:jtb3z8\u001b[0m","timestamp":1773736343871}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:hdsaoj\u001b[0m","timestamp":1773736343883}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:yp8plh\u001b[0m","timestamp":1773736343918}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:8jburr\u001b[0m","timestamp":1773736344078}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:3kqtr7\u001b[0m","timestamp":1773736344100}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1773736344183}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:u6i962\u001b[0m","timestamp":1773736344184}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:2zoul1\u001b[0m","timestamp":1773736344200}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:v8j4hz\u001b[0m","timestamp":1773736344223}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:fyi3k1\u001b[0m","timestamp":1773736344339}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:ip5q7k\u001b[0m","timestamp":1773736344382}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:id9max\u001b[0m","timestamp":1773736344414}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:ykrpwv\u001b[0m","timestamp":1773736344465}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:w9xabz\u001b[0m","timestamp":1773736344493}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:jamra7\u001b[0m","timestamp":1773736344515}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:h2b0ys\u001b[0m","timestamp":1773736344636}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:ctdb4p\u001b[0m","timestamp":1773736344652}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:7xwb4h\u001b[0m","timestamp":1773736344669}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:waqviw\u001b[0m","timestamp":1773736344696}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:t9fcu1\u001b[0m","timestamp":1773736344752}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1773736344774}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:00uj7j\u001b[0m","timestamp":1773736344775}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:bteaiw\u001b[0m","timestamp":1773736344825}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1773736344865}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:develop\u001b[0m","timestamp":1773736344865}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhmr:e8pbr7\u001b[0m","timestamp":1773736344866}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-iirose:m2atf0\u001b[0m","timestamp":1773736344952}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstock-monitor:05tvar\u001b[0m","timestamp":1773736345007}
+{"id":36,"type":"error","level":1,"name":"app","meta":{},"content":"cannot resolve plugin \"stock-monitor\"","timestamp":1773736345022}
+{"id":37,"type":"info","level":2,"name":"assets","meta":{"paths":["bteaiw"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1773736345116}
+{"id":38,"type":"info","level":2,"name":"server","meta":{"paths":["qwahpd"]},"content":"server listening at \u001b[38;5;57mhttp://127.0.0.1:5140\u001b[0m","timestamp":1773736345404}
+{"id":71,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] 找到可用服务器: wss://m9.iirose.com:8778, 延迟: 1103ms","timestamp":1773736347327}
+{"id":72,"type":"warn","level":2,"name":"config","meta":{},"content":"failed to resolve \u001b[38;5;78mkoishi-plugin-stock-monitor\u001b[0m","timestamp":1773736347397}
+{"id":73,"type":"warn","level":2,"name":"config","meta":{},"content":"Error: Cannot find module 'E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\koishi-plugin-stock-monitor\\index.js'. Please verify that the package.json has a valid \"main\" entry\n    at tryPackage (node:internal/modules/cjs/loader:400:19)\n    at Module._findPath (node:internal/modules/cjs/loader:613:18)\n    at Module._resolveFilename (node:internal/modules/cjs/loader:981:27)\n    at Module._resolveFilename (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\esbuild-register\\dist\\node.js:4787:36)\n    at Function.resolve (node:internal/modules/cjs/helpers:109:19)\n    at PackageScanner.parsePackage (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@koishijs\\plugin-config\\src\\node\\packages.ts:22:29)\n    at PackageScanner.loadPackage (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@koishijs\\registry\\src\\local.ts:60:14)\n    at async Promise.all (index 39)\n    at PackageScanner.collect (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@koishijs\\registry\\src\\local.ts:37:20)\n    at Proxy.collect (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@koishijs\\plugin-config\\src\\node\\packages.ts:38:5)","timestamp":1773736347397}
+{"id":74,"type":"info","level":2,"name":"console","meta":{"paths":["fyi3k1"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1773736347427}
+{"id":75,"type":"error","level":1,"name":"app","meta":{},"content":"cannot resolve plugin \"stock-monitor\"","timestamp":1773736347458}
+{"id":76,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] 正在登录中...","timestamp":1773736349011}
+{"id":77,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] [69b3b31f61f35] 登陆成功：欢迎回来，小冰股票！","timestamp":1773736359811}

@@ -1,0 +1,53 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.11\u001b[0m","timestamp":1773736375575}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1773736375606}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1773736375607}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:qwahpd\u001b[0m","timestamp":1773736375607}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1773736376112}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:q4pd8h\u001b[0m","timestamp":1773736376113}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:ncm4eq\u001b[0m","timestamp":1773736376127}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:jtb3z8\u001b[0m","timestamp":1773736376143}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:hdsaoj\u001b[0m","timestamp":1773736376155}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:yp8plh\u001b[0m","timestamp":1773736376189}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:8jburr\u001b[0m","timestamp":1773736376323}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:3kqtr7\u001b[0m","timestamp":1773736376344}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1773736376423}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:u6i962\u001b[0m","timestamp":1773736376424}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:2zoul1\u001b[0m","timestamp":1773736376438}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:v8j4hz\u001b[0m","timestamp":1773736376460}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:fyi3k1\u001b[0m","timestamp":1773736376567}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:ip5q7k\u001b[0m","timestamp":1773736376608}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:id9max\u001b[0m","timestamp":1773736376638}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:ykrpwv\u001b[0m","timestamp":1773736376683}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:w9xabz\u001b[0m","timestamp":1773736376710}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:jamra7\u001b[0m","timestamp":1773736376731}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:h2b0ys\u001b[0m","timestamp":1773736376847}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:ctdb4p\u001b[0m","timestamp":1773736376863}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:7xwb4h\u001b[0m","timestamp":1773736376879}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:waqviw\u001b[0m","timestamp":1773736376910}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:t9fcu1\u001b[0m","timestamp":1773736376966}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1773736376988}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:00uj7j\u001b[0m","timestamp":1773736376989}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:bteaiw\u001b[0m","timestamp":1773736377033}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1773736377072}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:develop\u001b[0m","timestamp":1773736377072}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhmr:e8pbr7\u001b[0m","timestamp":1773736377073}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-iirose:m2atf0\u001b[0m","timestamp":1773736377151}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstock-monitor:05tvar\u001b[0m","timestamp":1773736377208}
+{"id":36,"type":"info","level":2,"name":"assets","meta":{"paths":["bteaiw"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1773736377436}
+{"id":37,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"插件已启动","timestamp":1773736377445}
+{"id":38,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"API 地址: http://felinus.gnway.cc:8000/stock","timestamp":1773736377445}
+{"id":39,"type":"info","level":2,"name":"server","meta":{"paths":["qwahpd"]},"content":"server listening at \u001b[38;5;57mhttp://127.0.0.1:5140\u001b[0m","timestamp":1773736377710}
+{"id":50,"type":"info","level":2,"name":"console","meta":{"paths":["fyi3k1"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1773736378635}
+{"id":55,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] 找到可用服务器: wss://m.iirose.com:8778, 延迟: 1042ms","timestamp":1773736380204}
+{"id":74,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] 正在登录中...","timestamp":1773736385398}
+{"id":75,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] [69b3b31f61f35] 登陆成功：欢迎回来，小冰股票！","timestamp":1773736397867}
+{"id":78,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773736398137}
+{"id":79,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773736398137}
+{"id":80,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0305\u001b[39m, totalStock: \u001b[33m14742\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m449.3848\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773736398137}
+{"id":81,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773736398139}
+{"id":82,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m45\u001b[39m, timestamp: \u001b[32m'2026-03-17T08:33:18.203Z'\u001b[39m }","timestamp":1773736398226}
+{"id":84,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773736452853}
+{"id":85,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773736452854}
+{"id":86,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0583\u001b[39m, totalStock: \u001b[33m14742\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m859.3848\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773736452854}
+{"id":87,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773736452855}
+{"id":88,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m45\u001b[39m, timestamp: \u001b[32m'2026-03-17T08:34:12.920Z'\u001b[39m }","timestamp":1773736452940}

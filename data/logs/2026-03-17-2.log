@@ -1,0 +1,34 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.11\u001b[0m","timestamp":1773732913783}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1773732913820}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1773732913822}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:qwahpd\u001b[0m","timestamp":1773732913823}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1773732913990}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:q4pd8h\u001b[0m","timestamp":1773732913991}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:ncm4eq\u001b[0m","timestamp":1773732913995}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:jtb3z8\u001b[0m","timestamp":1773732913998}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:hdsaoj\u001b[0m","timestamp":1773732914000}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:yp8plh\u001b[0m","timestamp":1773732914006}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:8jburr\u001b[0m","timestamp":1773732914114}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:3kqtr7\u001b[0m","timestamp":1773732914117}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1773732914175}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:u6i962\u001b[0m","timestamp":1773732914176}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:2zoul1\u001b[0m","timestamp":1773732914178}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:v8j4hz\u001b[0m","timestamp":1773732914181}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:fyi3k1\u001b[0m","timestamp":1773732914219}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:ip5q7k\u001b[0m","timestamp":1773732914227}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:id9max\u001b[0m","timestamp":1773732914231}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:ykrpwv\u001b[0m","timestamp":1773732914249}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:w9xabz\u001b[0m","timestamp":1773732914251}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:jamra7\u001b[0m","timestamp":1773732914256}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:h2b0ys\u001b[0m","timestamp":1773732914286}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:ctdb4p\u001b[0m","timestamp":1773732914288}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:7xwb4h\u001b[0m","timestamp":1773732914290}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:waqviw\u001b[0m","timestamp":1773732914293}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:t9fcu1\u001b[0m","timestamp":1773732914320}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1773732914323}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:00uj7j\u001b[0m","timestamp":1773732914324}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:bteaiw\u001b[0m","timestamp":1773732914336}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1773732914341}
+{"id":32,"type":"info","level":2,"name":"assets","meta":{"paths":["bteaiw"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1773732914452}
+{"id":33,"type":"info","level":2,"name":"server","meta":{"paths":["qwahpd"]},"content":"server listening at \u001b[38;5;57mhttp://127.0.0.1:5141\u001b[0m","timestamp":1773732914528}
+{"id":34,"type":"info","level":2,"name":"console","meta":{"paths":["fyi3k1"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5141\u001b[0m","timestamp":1773732914532}
