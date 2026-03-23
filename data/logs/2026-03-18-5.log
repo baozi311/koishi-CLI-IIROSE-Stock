@@ -1,0 +1,236 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.11\u001b[0m","timestamp":1773818264390}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1773818264417}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1773818264419}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:qwahpd\u001b[0m","timestamp":1773818264419}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1773818264952}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:q4pd8h\u001b[0m","timestamp":1773818264953}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:ncm4eq\u001b[0m","timestamp":1773818264969}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:jtb3z8\u001b[0m","timestamp":1773818264984}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:hdsaoj\u001b[0m","timestamp":1773818264998}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:yp8plh\u001b[0m","timestamp":1773818265041}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:8jburr\u001b[0m","timestamp":1773818265190}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:3kqtr7\u001b[0m","timestamp":1773818265213}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1773818265292}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:u6i962\u001b[0m","timestamp":1773818265293}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:2zoul1\u001b[0m","timestamp":1773818265308}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:v8j4hz\u001b[0m","timestamp":1773818265332}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:fyi3k1\u001b[0m","timestamp":1773818265438}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:ip5q7k\u001b[0m","timestamp":1773818265480}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:id9max\u001b[0m","timestamp":1773818265513}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:ykrpwv\u001b[0m","timestamp":1773818265559}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:w9xabz\u001b[0m","timestamp":1773818265587}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:jamra7\u001b[0m","timestamp":1773818265610}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:h2b0ys\u001b[0m","timestamp":1773818265728}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:ctdb4p\u001b[0m","timestamp":1773818265743}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:7xwb4h\u001b[0m","timestamp":1773818265757}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:waqviw\u001b[0m","timestamp":1773818265785}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:t9fcu1\u001b[0m","timestamp":1773818265843}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1773818265864}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:00uj7j\u001b[0m","timestamp":1773818265865}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:bteaiw\u001b[0m","timestamp":1773818265911}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1773818265948}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:develop\u001b[0m","timestamp":1773818265948}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhmr:e8pbr7\u001b[0m","timestamp":1773818265949}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-iirose:m2atf0\u001b[0m","timestamp":1773818266029}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstock-monitor:05tvar\u001b[0m","timestamp":1773818266081}
+{"id":36,"type":"info","level":2,"name":"assets","meta":{"paths":["bteaiw"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1773818266352}
+{"id":37,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"插件已启动","timestamp":1773818266363}
+{"id":38,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"API 地址: http://felinus.gnway.cc:8000/stock","timestamp":1773818266363}
+{"id":39,"type":"info","level":2,"name":"server","meta":{"paths":["qwahpd"]},"content":"server listening at \u001b[38;5;57mhttp://127.0.0.1:5140\u001b[0m","timestamp":1773818266624}
+{"id":54,"type":"info","level":2,"name":"console","meta":{"paths":["fyi3k1"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1773818267589}
+{"id":55,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] 找到可用服务器: wss://m2.iirose.com:8778, 延迟: 1088ms","timestamp":1773818268107}
+{"id":56,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] 正在登录中...","timestamp":1773818270749}
+{"id":57,"type":"info","level":2,"name":"adapter-iirose","meta":{"paths":["m2atf0"]},"content":"[69b3b31f61f35] [69b3b31f61f35] 登陆成功：欢迎回来，小冰股票！","timestamp":1773818276607}
+{"id":60,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773818276756}
+{"id":61,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773818276756}
+{"id":62,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0616\u001b[39m, totalStock: \u001b[33m16733\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1030.1149\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773818276756}
+{"id":63,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773818276758}
+{"id":64,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:17:56.820Z'\u001b[39m }","timestamp":1773818276840}
+{"id":66,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773818387046}
+{"id":67,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773818387047}
+{"id":68,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0665\u001b[39m, totalStock: \u001b[33m16732\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1112.4576\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773818387047}
+{"id":69,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773818387048}
+{"id":70,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:19:47.099Z'\u001b[39m }","timestamp":1773818387120}
+{"id":72,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773818507629}
+{"id":73,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773818507629}
+{"id":74,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0286\u001b[39m, totalStock: \u001b[33m15189\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m434.2434\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773818507630}
+{"id":75,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773818507630}
+{"id":76,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:21:47.700Z'\u001b[39m }","timestamp":1773818507722}
+{"id":87,"type":"warn","level":2,"name":"sqlite","meta":{"paths":["00uj7j"]},"content":"> INSERT INTO `binding` (`aid`, `bid`, `pid`, `platform`) VALUES (?, ?, ?, ?) [ \u001b[33m63\u001b[39m, \u001b[33m63\u001b[39m, \u001b[32m'6773c55ced34c'\u001b[39m, \u001b[32m'iirose'\u001b[39m ]","timestamp":1773818622032}
+{"id":88,"type":"warn","level":2,"name":"session","meta":{"paths":[]},"content":"你妈死了个大傻逼，我怎么跟你妈生出你这个贱种玩意，给你妈挂电风扇上拿电钻360度转着圈的草你妈的大骚逼\nError: UNIQUE constraint failed: binding.pid, binding.platform\n    at f.handleError (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@minatojs\\sql.js\\dist\\sql-wasm.js:90:53)\n    at c.step (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@minatojs\\sql.js\\dist\\sql-wasm.js:80:205)\n    at c.run (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@minatojs\\sql.js\\dist\\sql-wasm.js:82:445)\n    at <anonymous> (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@minatojs\\driver-sqlite\\src\\index.ts:288:42)\n    at SQLiteDriver._exec (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@minatojs\\driver-sqlite\\src\\index.ts:255:22)\n    at SQLiteDriver._run (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@minatojs\\driver-sqlite\\src\\index.ts:288:10)\n    at SQLiteDriver._create (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@minatojs\\driver-sqlite\\src\\index.ts:389:17)\n    at SQLiteDriver.create (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\@minatojs\\driver-sqlite\\src\\index.ts:394:25)\n    at Executable.execute (E:\\Desktop\\test\\koishiBot\\koishiBot\\node_modules\\minato\\src\\selection.ts:161:40)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":1773818622055}
+{"id":105,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773818629727}
+{"id":106,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773818629729}
+{"id":107,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0292\u001b[39m, totalStock: \u001b[33m15189\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m444.2434\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773818629729}
+{"id":108,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773818629729}
+{"id":109,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:23:49.792Z'\u001b[39m }","timestamp":1773818629812}
+{"id":120,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773818751239}
+{"id":121,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773818751239}
+{"id":122,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0918\u001b[39m, totalStock: \u001b[33m15188\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1394.2142\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773818751240}
+{"id":123,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773818751240}
+{"id":124,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:25:51.304Z'\u001b[39m }","timestamp":1773818751324}
+{"id":125,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773818834084}
+{"id":126,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773818834084}
+{"id":127,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0918\u001b[39m, totalStock: \u001b[33m14159\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1299.755\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773818834084}
+{"id":128,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773818834085}
+{"id":129,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:27:14.146Z'\u001b[39m }","timestamp":1773818834164}
+{"id":131,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773818868959}
+{"id":132,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773818868959}
+{"id":133,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.2207\u001b[39m, totalStock: \u001b[33m4190\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m924.6298\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773818868960}
+{"id":134,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773818868960}
+{"id":135,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:27:49.025Z'\u001b[39m }","timestamp":1773818869045}
+{"id":137,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773818989559}
+{"id":138,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773818989559}
+{"id":139,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0243\u001b[39m, totalStock: \u001b[33m4640\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m112.6327\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773818989559}
+{"id":140,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773818989560}
+{"id":141,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:29:49.620Z'\u001b[39m }","timestamp":1773818989641}
+{"id":143,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773819109446}
+{"id":144,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773819109447}
+{"id":145,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0548\u001b[39m, totalStock: \u001b[33m1640\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m89.8098\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773819109447}
+{"id":146,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773819109448}
+{"id":147,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m1\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:31:50.515Z'\u001b[39m }","timestamp":1773819110537}
+{"id":149,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773819229580}
+{"id":150,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773819229580}
+{"id":151,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m1\u001b[39m, totalStock: \u001b[33m1000\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1000\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773819229581}
+{"id":152,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773819229581}
+{"id":153,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'崩盘，新盘已创建'\u001b[39m, diskId: \u001b[33m2\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:33:49.651Z'\u001b[39m }","timestamp":1773819229670}
+{"id":155,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773819353138}
+{"id":156,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773819353138}
+{"id":157,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m1.63\u001b[39m, totalStock: \u001b[33m1400\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m2282\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773819353139}
+{"id":158,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773819353139}
+{"id":159,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m2\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:35:53.201Z'\u001b[39m }","timestamp":1773819353220}
+{"id":161,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773819470085}
+{"id":162,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773819470088}
+{"id":163,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m1.3366\u001b[39m, totalStock: \u001b[33m1115\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1490.309\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773819470088}
+{"id":164,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773819470088}
+{"id":165,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m2\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:37:50.156Z'\u001b[39m }","timestamp":1773819470176}
+{"id":167,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773819589701}
+{"id":168,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773819589701}
+{"id":169,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.7351\u001b[39m, totalStock: \u001b[33m1407\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1034.3279\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773819589701}
+{"id":170,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773819589702}
+{"id":171,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m2\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:39:49.764Z'\u001b[39m }","timestamp":1773819589783}
+{"id":173,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773819711650}
+{"id":174,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773819711651}
+{"id":175,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.2426\u001b[39m, totalStock: \u001b[33m3455\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m838.1585\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773819711651}
+{"id":176,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773819711651}
+{"id":177,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m2\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:41:51.702Z'\u001b[39m }","timestamp":1773819711722}
+{"id":179,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773819830279}
+{"id":180,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773819830279}
+{"id":181,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.2838\u001b[39m, totalStock: \u001b[33m16204\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m4599.2412\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773819830280}
+{"id":182,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773819830280}
+{"id":183,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m2\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:43:50.333Z'\u001b[39m }","timestamp":1773819830352}
+{"id":185,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773819950333}
+{"id":186,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773819950334}
+{"id":187,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.0114\u001b[39m, totalStock: \u001b[33m15350\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m174.2739\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773819950334}
+{"id":188,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773819950334}
+{"id":189,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m2\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:45:50.399Z'\u001b[39m }","timestamp":1773819950418}
+{"id":191,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773820070714}
+{"id":192,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773820070715}
+{"id":193,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m1\u001b[39m, totalStock: \u001b[33m1000\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1000\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773820070715}
+{"id":194,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773820070715}
+{"id":195,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'崩盘，新盘已创建'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:47:50.776Z'\u001b[39m }","timestamp":1773820071019}
+{"id":197,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773820191679}
+{"id":198,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773820191679}
+{"id":199,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m1.43\u001b[39m, totalStock: \u001b[33m1222\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1747.46\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773820191680}
+{"id":200,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773820191680}
+{"id":201,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:49:51.747Z'\u001b[39m }","timestamp":1773820191767}
+{"id":203,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773820310501}
+{"id":204,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773820310502}
+{"id":205,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m1.5444\u001b[39m, totalStock: \u001b[33m1012\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1562.9328\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773820310502}
+{"id":206,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773820310502}
+{"id":207,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:51:50.566Z'\u001b[39m }","timestamp":1773820310586}
+{"id":209,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773820430788}
+{"id":210,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773820430788}
+{"id":211,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m1.9614\u001b[39m, totalStock: \u001b[33m1101\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m2159.4882\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773820430789}
+{"id":212,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773820430789}
+{"id":213,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:53:50.854Z'\u001b[39m }","timestamp":1773820430874}
+{"id":224,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773820551658}
+{"id":225,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773820551658}
+{"id":226,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m3.8247\u001b[39m, totalStock: \u001b[33m1000\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m3824.7066\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773820551659}
+{"id":227,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773820551659}
+{"id":228,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:55:51.723Z'\u001b[39m }","timestamp":1773820551744}
+{"id":230,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773820671002}
+{"id":231,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773820671004}
+{"id":232,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m5.3928\u001b[39m, totalStock: \u001b[33m1000\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m5392.8363\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773820671005}
+{"id":233,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773820671005}
+{"id":234,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:57:51.080Z'\u001b[39m }","timestamp":1773820671116}
+{"id":236,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773820792154}
+{"id":237,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773820792154}
+{"id":238,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m7.2803\u001b[39m, totalStock: \u001b[33m1562\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m11371.8739\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773820792155}
+{"id":239,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773820792155}
+{"id":240,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T07:59:52.221Z'\u001b[39m }","timestamp":1773820792245}
+{"id":242,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773820910927}
+{"id":243,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773820910928}
+{"id":244,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m11.1389\u001b[39m, totalStock: \u001b[33m1221\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m13600.601\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773820910929}
+{"id":245,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773820910931}
+{"id":246,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:01:50.989Z'\u001b[39m }","timestamp":1773820911011}
+{"id":248,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821030737}
+{"id":249,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821030738}
+{"id":250,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m8.1314\u001b[39m, totalStock: \u001b[33m1374\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m11172.5429\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821030740}
+{"id":251,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821030741}
+{"id":252,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:03:50.795Z'\u001b[39m }","timestamp":1773821030816}
+{"id":254,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821150870}
+{"id":255,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821150871}
+{"id":256,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m14.7178\u001b[39m, totalStock: \u001b[33m1814\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m26698.1492\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821150871}
+{"id":257,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821150871}
+{"id":258,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:05:50.935Z'\u001b[39m }","timestamp":1773821150955}
+{"id":260,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821271906}
+{"id":261,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821271907}
+{"id":262,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m28.9941\u001b[39m, totalStock: \u001b[33m1225\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m35517.8106\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821271907}
+{"id":263,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821271908}
+{"id":264,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:07:51.979Z'\u001b[39m }","timestamp":1773821272001}
+{"id":266,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821392777}
+{"id":267,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821392777}
+{"id":268,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m8.4083\u001b[39m, totalStock: \u001b[33m1412\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m11872.5168\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821392777}
+{"id":269,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821392778}
+{"id":270,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:09:52.844Z'\u001b[39m }","timestamp":1773821392868}
+{"id":272,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821512539}
+{"id":273,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821512539}
+{"id":274,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m13.3692\u001b[39m, totalStock: \u001b[33m1596\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m21337.2334\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821512539}
+{"id":275,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821512540}
+{"id":276,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:11:52.600Z'\u001b[39m }","timestamp":1773821512621}
+{"id":278,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821631862}
+{"id":279,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821631863}
+{"id":280,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m4.2781\u001b[39m, totalStock: \u001b[33m1374\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m5878.1672\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821631863}
+{"id":281,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821631863}
+{"id":282,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:13:51.928Z'\u001b[39m }","timestamp":1773821631949}
+{"id":284,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821751780}
+{"id":285,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821751780}
+{"id":286,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m2.353\u001b[39m, totalStock: \u001b[33m1318\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m3101.2252\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821751780}
+{"id":287,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821751781}
+{"id":288,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:15:51.834Z'\u001b[39m }","timestamp":1773821751855}
+{"id":289,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821858703}
+{"id":290,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821858704}
+{"id":291,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m2.353\u001b[39m, totalStock: \u001b[33m1868\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m4395.3631\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821858704}
+{"id":292,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821858704}
+{"id":293,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:17:38.760Z'\u001b[39m }","timestamp":1773821858781}
+{"id":295,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821872164}
+{"id":296,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821872164}
+{"id":297,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m2.1177\u001b[39m, totalStock: \u001b[33m1868\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m3955.8268\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821872164}
+{"id":298,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821872165}
+{"id":299,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:17:52.216Z'\u001b[39m }","timestamp":1773821872238}
+{"id":318,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773821992446}
+{"id":319,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773821992447}
+{"id":320,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.5294\u001b[39m, totalStock: \u001b[33m2738\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1449.5522\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773821992447}
+{"id":321,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773821992448}
+{"id":322,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:19:52.511Z'\u001b[39m }","timestamp":1773821992533}
+{"id":327,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773822112377}
+{"id":328,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773822112379}
+{"id":329,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.5294\u001b[39m, totalStock: \u001b[33m4931\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m2610.5704\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773822112380}
+{"id":330,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773822112380}
+{"id":331,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:21:52.442Z'\u001b[39m }","timestamp":1773822112462}
+{"id":332,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773822144291}
+{"id":333,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773822144291}
+{"id":334,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.5294\u001b[39m, totalStock: \u001b[33m5931\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m3139.9905\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773822144292}
+{"id":335,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773822144292}
+{"id":336,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:22:24.345Z'\u001b[39m }","timestamp":1773822144367}
+{"id":350,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773822233319}
+{"id":351,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773822233319}
+{"id":352,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.2859\u001b[39m, totalStock: \u001b[33m6931\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m1981.4817\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773822233320}
+{"id":353,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773822233320}
+{"id":354,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:23:53.374Z'\u001b[39m }","timestamp":1773822233396}
+{"id":357,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"收到股票更新事件","timestamp":1773822354017}
+{"id":358,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送股票数据到: http://felinus.gnway.cc:8000/stock","timestamp":1773822354017}
+{"id":359,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送数据: { unitPrice: \u001b[33m0.2373\u001b[39m, totalStock: \u001b[33m15116\u001b[39m, personalStock: \u001b[33m0\u001b[39m, totalMoney: \u001b[33m3586.8164\u001b[39m, personalMoney: \u001b[33m0\u001b[39m }","timestamp":1773822354018}
+{"id":360,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"请求方法: POST","timestamp":1773822354018}
+{"id":361,"type":"info","level":2,"name":"stock-monitor","meta":{},"content":"发送成功: { success: \u001b[33mtrue\u001b[39m, message: \u001b[32m'股票数据接收成功'\u001b[39m, diskId: \u001b[33m3\u001b[39m, timestamp: \u001b[32m'2026-03-18T08:25:54.072Z'\u001b[39m }","timestamp":1773822354094}
+{"id":362,"type":"info","level":2,"name":"app","meta":{"paths":[]},"content":"terminated by SIGINT","timestamp":1773822357388}
